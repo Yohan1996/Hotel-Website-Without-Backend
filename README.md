@@ -18,9 +18,9 @@ Interfaces
 
 ![image](https://user-images.githubusercontent.com/69201980/139812377-5b76dc66-70c8-428b-9a65-09b2160a3fe4.png)
 
-![image](https://user-images.githubusercontent.com/69201980/139812390-adfcc995-7d0a-4b9f-8ac3-1f5032fcf52f.png)
 
-![image](https://user-images.githubusercontent.com/69201980/139812404-21dee625-8da9-4112-9f50-6b7c07b63aec.png)
+
+
 
 
 
