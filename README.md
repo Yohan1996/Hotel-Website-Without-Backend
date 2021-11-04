@@ -18,6 +18,12 @@ Interfaces
 
 ![image](https://user-images.githubusercontent.com/69201980/139812377-5b76dc66-70c8-428b-9a65-09b2160a3fe4.png)
 
+![image](https://user-images.githubusercontent.com/69201980/140395621-eab9a4f3-7ad4-41c4-9b40-75f8257bd8f1.png)
+
+![image](https://user-images.githubusercontent.com/69201980/140395644-ea19175a-500c-4991-a4cb-db7d254af87a.png)
+
+
+
 
 
 
